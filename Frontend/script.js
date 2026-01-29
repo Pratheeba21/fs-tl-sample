@@ -79,3 +79,4 @@ function renderTask(text, id, isCompleted) {
   list_item.appendChild(delete_btn);
   task_list.appendChild(list_item);
 }
+
