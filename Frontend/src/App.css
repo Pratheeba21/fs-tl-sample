@@ -27,7 +27,7 @@
         color: rgb(92, 3, 92);
       }
 
-      #inp {
+      input {
         width: 100%;
         padding: 8px;
         margin-bottom: 15px;
@@ -35,7 +35,7 @@
         border-style: none;
       }
 
-      #add_button {
+      .add_button {
         width: 100%;
         padding: 8px;
         border-radius: 15px;
@@ -45,7 +45,7 @@
         cursor: pointer;
       }
 
-      #add_button:hover {
+      .add_button:hover {
         background-color: rgb(204, 41, 229);
       }
 
@@ -115,3 +115,6 @@
 }
  
 
+.head{
+  color: rgb(0, 255, 47);
+}
